@@ -1,0 +1,11 @@
+torch
+pandas
+numpy
+matplotlib
+nltk
+gensim
+spacy
+fasttext
+gdown
+requests
+transformers
